@@ -1,9 +1,10 @@
-
 public class SinhVien {
-
-	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+	     String ten;
+	     int tuoi;
+	     String maSV;
+	     
+	     void HocBai(String MonHoc) {
+	    	 System.out.println(ten + " đang học môn " + MonHoc);
+	    }
 	}
 
-}
