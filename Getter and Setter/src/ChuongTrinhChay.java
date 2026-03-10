@@ -3,8 +3,8 @@ public class ChuongTrinhChay {
 		//Tạo mới đối tượng 
         ChuNhat cn1 = new ChuNhat();
         //tạo đối tượng cn1, dai = 10, rong = 5
-        ChuNhat cn2 = new ChuNhat(20, 15);
-        ChuNhat hv = new ChuNhat(20, 20);
+//        ChuNhat cn2 = new ChuNhat(20, 15);
+//        ChuNhat hv = new ChuNhat(20, 20);
         //Giả sử ta muốn lấy dữ liệu/ thuộc tính của cn1 
         //Để in ra màn hình 
         double cn1_dai = cn1.getDai();
