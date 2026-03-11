@@ -9,7 +9,7 @@ public class TestTimeClass {
 		      System.out.println(t1);  // toString()
 		      System.out.println("Hour: " + t1.getHour());
 		      System.out.println("Minute: " + t1.getMinute());
-		      System.out.println("Second: " + t1.getSecond());
+		      System.out.println("Second: " + t1.getSecond()); 
 		      // Test setTime()
 		      t1.setTime(23, 59, 58);
 		      System.out.println(t1);  // toString()
