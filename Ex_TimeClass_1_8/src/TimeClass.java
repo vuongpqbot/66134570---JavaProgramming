@@ -64,6 +64,6 @@ public class TimeClass {
     			 }
     		 }
     	 }
-    	 return this;
+    	 return this; 
      }
 }
