@@ -1,0 +1,14 @@
+--- SAN PHAM ---
+Ma san pham: 4567
+Ten san pham: Son
+Gia: 250.00
+So luong: 4
+Tong tien: 1000.00
+Phan loai: Trung binh
+--- SAN PHAM ---
+Ma san pham: 39647
+Ten san pham: Nuoc tay trang
+Gia: 150.00
+So luong: 5
+Tong tien: 750.00
+Phan loai: Trung binh
